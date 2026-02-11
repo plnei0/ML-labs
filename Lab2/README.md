@@ -1,7 +1,7 @@
 # Lab 2 – House Price Prediction
 
 ## Dataset
-House Price Prediction Dataset (tabular dataset in CSV format).
+House Price Prediction Dataset from kaggle (tabular dataset in CSV format).
 
 ## Machine Learning Problem Type
 Regression 
