@@ -1,13 +1,18 @@
-## Lab Description:
+# House Price Prediction Lab3
 
-- Analyzed a House Price dataset using Python.
+## Overview
+This lab analyzes a House Price dataset using Python. The goal is to explore the data and build a regression model to predict house prices.
 
-- Performed data cleaning and preprocessing.
+## Objective
+To understand the factors affecting house prices and develop a predictive model.
 
-- Conducted Exploratory Data Analysis (EDA).
+## Steps
+- Data cleaning and preprocessing
+- Exploratory Data Analysis (EDA)
+- Data visualization
+- Correlation analysis
+- Regression modeling
 
-- Visualized key relationships between features and price.
 
-- Applied regression techniques for price prediction.
-
-- Evaluated the impact of different factors on house prices.
+## Objective
+To understand the factors affecting house prices and develop a predictive model.
