@@ -3,11 +3,11 @@
 This project demonstrates essential data preprocessing techniques used before building machine learning models.
 
 ##  Tasks Covered
-1 - Identifying data quality issues
-2 - Handling missing values
-3 - Detecting and treating outliers using IQR
-4 - Applying Min-Max and Z-score normalization
-5 - Performing PCA and interpreting explained variance
+1. Identifying data quality issues
+2. Handling missing values
+3. Detecting and treating outliers using IQR
+4. Applying Min-Max and Z-score normalization
+5. Performing PCA and interpreting explained variance
 
 ##  Objective
 The goal of this project is to clean and transform raw data into a structured format suitable for machine learning algorithms.
